@@ -1,1 +1,4 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#btn {
+  color: rgba(11, 88, 231, 0.797);
+}
